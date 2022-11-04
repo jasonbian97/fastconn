@@ -1,0 +1,3 @@
+import fastCfeat
+
+fastCfeat.helloWorld()

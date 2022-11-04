@@ -1,0 +1,8 @@
+README.md
+setup.py
+fastCfeat/__init__.py
+fastCfeat.egg-info/PKG-INFO
+fastCfeat.egg-info/SOURCES.txt
+fastCfeat.egg-info/dependency_links.txt
+fastCfeat.egg-info/not-zip-safe
+fastCfeat.egg-info/top_level.txt
